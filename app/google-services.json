@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946125878455",
+    "project_id": "androidstudiobm",
+    "storage_bucket": "androidstudiobm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946125878455:android:4f61b56226a374b3354932",
+        "android_client_info": {
+          "package_name": "com.matus.androidstudiobenjaminmatus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0FXSWRK09FAjq_r2rbh6WeIYV0uuVgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
